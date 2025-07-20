@@ -7,9 +7,8 @@
 I'm a CS undergrad who loves solving real-world problems with **machine learning**, **cloud tools**, and a growing interest in **fintech** 🧠☁️📊
 
 - 🔭 I’m currently working on: AI-powered platforms, smarter ML models, and some fun backend automation
-- 🌱 I’m currently learning: LangChain, graph databases (Neo4j), and better model optimization techniques
+- 🌱 I’m currently learning: LangChain, graph databases (Neo4j), AI in finance and better model optimization techniques
 - 👯 I’m looking to collaborate on: anything AI, cloud-based apps, or finance-focused projects!
-- 🤔 I’m looking for help with: deploying large models efficiently and optimizing compute usage 😅
 - 💬 Ask me about:
   - Churn prediction with behavioral features (RFM, etc.)
   - Fine-tuning LLMs with LoRA (did that for HTML/CSS codegen)
